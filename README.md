@@ -1,4 +1,4 @@
-# ddeuckr-d
+# euckr-d
 
 Simple EUC-KR to UTF-8 decoder.
 
