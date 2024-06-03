@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/euckr-d
+euckr-d.so
+euckr-d.dylib
+euckr-d.dll
+euckr-d.a
+euckr-d.lib
+euckr-d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+/bin

@@ -1,0 +1,9 @@
+{
+    "name": "euckr-d",
+    "authors": ["davidjung-kr"],
+    "targetType":"library",
+    "copyright": "Copyright © 2024, David Jung",
+    "description": "EUC-KR to UTF-8",
+    "license": "MIT",
+    "targetPath":"bin/"
+}
